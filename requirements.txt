@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+matplotlib
+pandas
+pydicom
+pytorch-lightning
+git+https://github.com/S-aiueo32/contextual_loss_pytorch.git
+sklearn
+pytorch-msssim
+optuna
+piq
+kornia
+einops

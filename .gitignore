@@ -1,0 +1,9 @@
+training_results/
+saved_models/
+.idea/
+.env/
+old_experiments/
+data/
+__pycache__
+*.py[cod]
+.vscode/
